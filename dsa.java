@@ -1,8 +1,15 @@
 public class dsa {
     public static void main(String[] args) {
-        int a = 12 ;
+        int a = 122 ;
         int b= 24;
-        int sum = (a+b);
-        System.out.println(sum);
+        int c=35;
+        if (a>b) {
+            System.out.println(a);
+    
+            
+                
+            } else { System.out.println(c);
+                
+            }
+         }
     }
-}
