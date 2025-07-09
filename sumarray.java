@@ -6,8 +6,8 @@ public class sumarray {
         int sum=0;
 
         for (int j=0;j< nums[0].length;j++){
-            
-        sum+= nums[0][j];
+
+        sum+= nums[01][j];
 
 
     }
