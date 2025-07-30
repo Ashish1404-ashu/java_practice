@@ -5,7 +5,6 @@ public class map {
         HashMap<String ,Integer> hm = new HashMap<>();
 
         hm.put("india", 100);
-
         hm.put("Nepal", 100);
         System.out.println(hm);
        int population =  hm.get("india");

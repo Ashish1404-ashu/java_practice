@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "PushZerosToEnd",
+      "request": "launch",
+      "mainClass": "PushZerosToEnd",
+      "projectName": "java_practice_33607760"
+    },
+    {
+      "type": "java",
+      "name": "PushZeroToEnd",
+      "request": "launch",
+      "mainClass": "PushZeroToEnd",
+      "projectName": "java_practice_33607760"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
