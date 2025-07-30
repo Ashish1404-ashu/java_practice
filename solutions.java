@@ -4,14 +4,14 @@ public class solutions {
         int num = 4;
         for (int element:marks)
         if (num == element){
-        System.out.println("available");}
+            break;
 
-        else {
+    } else {
             System.out.println("not available");
         }
-        System.out.println();
+        System.out.println();{
 
         }
-        
     }
+}
     
