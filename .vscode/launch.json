@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "hashing",
+      "request": "launch",
+      "mainClass": "hashing",
+      "projectName": "java_practice_33607760"
+    },
+    {
+      "type": "java",
       "name": "PushZerosToEnd",
       "request": "launch",
       "mainClass": "PushZerosToEnd",
