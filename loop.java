@@ -1,4 +1,4 @@
-public class Main {
+public class loop {
     public static String longestCommonPrefix(String[] strs) {
         String prefix = strs[0]; // Step 1
         for (String s : strs)    // Step 2

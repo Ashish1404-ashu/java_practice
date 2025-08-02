@@ -12,7 +12,7 @@ public class hollowrect {
                     System.out.print(" ");
                 }
             }
-            System.out.println(); /
+            System.out.println(); 
         }
     }
 }

@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "hy",
+      "request": "launch",
+      "mainClass": "hy",
+      "projectName": "java_practice_33607760"
+    },
+    {
+      "type": "java",
+      "name": "oops",
+      "request": "launch",
+      "mainClass": "oops",
+      "projectName": "java_practice_33607760"
+    },
+    {
+      "type": "java",
+      "name": "oops1",
+      "request": "launch",
+      "mainClass": "oops1",
+      "projectName": "java_practice_33607760"
+    },
+    {
+      "type": "java",
       "name": "hashing",
       "request": "launch",
       "mainClass": "hashing",
