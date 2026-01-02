@@ -3,6 +3,7 @@ import java.util.HashMap;
 public class map {
     public static void main(String[] args) {
         HashMap<String ,Integer> hm = new HashMap<>();
+        HashMap<String ,Integer> hmm = new HashMap<>();
 
         hm.put("india", 100);
         hm.put("Nepal", 100);
@@ -11,5 +12,5 @@ public class map {
        System.out.println(population);
        System.out.println();
     }
-    
+    int population= get.hmm
 }

@@ -3,10 +3,10 @@ import java.util.*;
 public class arrayu {
     public static void main(String[] args) {
         int marks[] = new int[100];
-        Scanner sc =new Scanner(System.in);
-        marks[0] =sc.nextInt(); //phy
-        marks[1] =sc.nextInt(); // che 
-        marks[2] =sc.nextInt(); //math
+        Scanner Sc =new Scanner(System.in);
+        marks[0] =Sc.nextInt(); //phy
+        marks[1] =Sc.nextInt(); // che 
+        marks[2] =Sc.nextInt(); //math
 
         System.out.println("phy:"+marks[0]);
         System.out.println("chem:"+marks[1]);

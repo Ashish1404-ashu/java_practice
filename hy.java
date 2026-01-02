@@ -1,4 +1,4 @@
-import java .util.*;
+
 public class hy{
     public static void subarraysum(int numbers[]){
         int currsum=0;
