@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "compare",
+      "request": "launch",
+      "mainClass": "compare",
+      "projectName": "java_practice_33607760"
+    },
+    {
+      "type": "java",
       "name": "sums",
       "request": "launch",
       "mainClass": "sums",
