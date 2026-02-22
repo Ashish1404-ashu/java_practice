@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "even",
+      "request": "launch",
+      "mainClass": "even",
+      "projectName": "java_practice_33607760"
+    },
+    {
+      "type": "java",
       "name": "compare",
       "request": "launch",
       "mainClass": "compare",
