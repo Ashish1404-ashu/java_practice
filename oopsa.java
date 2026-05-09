@@ -14,7 +14,7 @@ public class oopsa {
         employee harry = new employee();
 
         harry.id=12;
-        harry.name = "harry is a don";
+        harry.name = "harry";
         harry.printdetails();
     }
 }
