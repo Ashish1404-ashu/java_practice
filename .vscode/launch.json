@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "oopsa",
+      "request": "launch",
+      "mainClass": "oopsa",
+      "projectName": "java_practice_33607760"
+    },
+    {
+      "type": "java",
       "name": "largestofthree",
       "request": "launch",
       "mainClass": "largestofthree",
